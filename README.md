@@ -1,4 +1,4 @@
-Yeah, I use ArchLinux. What about it?
+Yes. I use Arch. *smiles evil*
 
 <!---
 Kasadasan/Kasadasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
