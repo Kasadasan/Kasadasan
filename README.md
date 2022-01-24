@@ -4,7 +4,7 @@ Kasadasan/Kasadasan is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi, I'm Kasad.
+# Hi,
 
 I consider myself to be many things: A **sysadmin**, a **developer**, **linux enthusiest**, a **thinker**, and a **doer**.
 
