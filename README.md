@@ -6,10 +6,10 @@ You can click the Preview link to take a look at your changes.
 
 # Hi,
 
-I consider myself to be many things: A **sysadmin**, a **developer**, **linux enthusiest**, a **thinker**, and a **doer**.
+I consider myself to be many things: A **sysadmin**, a **developer**, **linux "fan"**, a **thinker**, and a **doer**.
 
 ## I am: 
-- Studying Comp. Sci. & Japanese @ Swarthmore College
+- Studying Comp. Sci. & 日本語 @ Swarthmore College
 - Member @ Swarthmore College Computer Society (SCCS).
 
 
